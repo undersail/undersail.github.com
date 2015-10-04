@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to be a c++ programmer?"
-date:   2015-10-05 01:19:00
+date:   2015-09-21 11:30:00
 categories: study
 ---
 
