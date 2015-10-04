@@ -1,5 +1,5 @@
 # Site settings
-title: "Jack.Zheng"
+title: "Jack.Z"
 description: "Not just a coder."
 baseurl: ""
 url: "http://i.easyapple.net"
@@ -12,9 +12,9 @@ paginate: 3
 
 # Links
 links:
-  - title: "about"
+  - title: "abt"
     url: /about
-  - title: "github"
+  - title: "git"
     url: https://github.com/undersail
   - title: "rss"
     url: /feed.xml
