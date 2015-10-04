@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Resume"
+title:  "Who am I?"
 date:   2015-09-19 16:24:00
 categories: about
 ---
