@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Resume"
+date:   2015-10-05 01:09:00
+categories: about
+---
+
 # 联系方式
 
 - [password]手机：13466712543

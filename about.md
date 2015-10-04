@@ -10,7 +10,7 @@ permalink: /about/
 *   要说具体的目标，我想成为一个独立XX者，能有更多的机会去执行自己的命令。
 *   我吭哧吭哧的鼓劲儿，终于生出翅膀，抬头望望，发现每个人都在飞翔。
 *   一觉醒来，才华横溢。
-*   [灵感水手](http://www.weibo.com/minispace) 。
+*   [灵感水手](http://www.weibo.com/minispace)。
 
 ## 非典型 IT 男
 
