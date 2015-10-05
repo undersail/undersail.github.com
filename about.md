@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Jack.Z
 permalink: /about/
 feature-img: "img/feature_img_skeleton.png"
 ---
