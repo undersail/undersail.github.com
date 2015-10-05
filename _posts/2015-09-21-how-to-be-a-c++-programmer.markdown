@@ -1,8 +1,6 @@
 ---
 layout: post
-title:  "How to be a c++ programmer?"
-date:   2015-09-21 11:30:00
-categories: study
+title: How to be a c++ programmer?
 ---
 
 最近抽时间做了一些事情，你懂的 ^_^，感觉颇有收获。除了对当下的行情有一个直观的了解外对C++程序员有了更明确的认识。

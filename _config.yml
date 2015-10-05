@@ -1,20 +1,71 @@
-# Site settings
-title: "Jack.Z"
-description: "Not just a coder."
-baseurl: ""
-url: "http://i.easyapple.net"
+# SITE CONFIGURATION
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://i.easyapple.net" # the base hostname & protocol for your site
 
-# Build settings
+# THEME-SPECIFIC CONFIGURATION
+theme:
+  # Meta
+  title: Jack.Z
+  avatar: skeleton.png
+  gravatar: # Email MD5 hash
+  description: "Not just a coder." # used by search engines
+
+  # Header and footer text
+  header_text: >
+    <p>Not just a coder.</p>
+  header_text_feature_image:
+  footer_text: >
+    <a href="http://www.weibo.com/minispace">Jack</a> <a href="http://i.easyapple.net">undersail</a>
+
+  # Icons
+  rss: true
+  email_address: # Full email address, e.g. "sam@example.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  github: "undersail"
+  google_plus:
+  instagram:
+  linkedin:  # Full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: "imagispace"
+  wordpress:
+  youtube:
+
+  # Scripts
+  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname:
+  katex: true # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next: "Next"
+  str_prev: "Prev"
+  str_continue_reading: "Continue reading"
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+  
+  # Post navigation
+  post_navigation: false
+
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
 markdown: kramdown
-permalink: pretty
 highlighter: pygments
-paginate: 3
-
-# Links
-links:
-  - title: "abt"
-    url: /about
-  - title: "git"
-    url: https://github.com/undersail
-  - title: "rss"
-    url: /feed.xml
+sass:
+  sass_dir: _sass
+  style: :compressed

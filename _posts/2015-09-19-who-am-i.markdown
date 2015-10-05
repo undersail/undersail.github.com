@@ -1,8 +1,6 @@
 ---
 layout: post
-title:  "Who am I?"
-date:   2015-09-19 16:24:00
-categories: about
+title: Who am I?
 ---
 
 达芬奇临终的时候说他涉猎的东西太多以致于一事无成，而在很多人看来每一项都是莫大的成就。

@@ -1,8 +1,6 @@
 ---
 layout: post
-title:  "Resume"
-date:   2015-09-12 14:35:00
-categories: about
+title: Resume
 ---
 
 从事计算机软件行业6年多，熟悉项目管理、系统设计、文档编写、软件开发等各个环节，擅长C/C++/VS/Qt平台开发，感兴趣Object-C/Swift/iOS平台开发，了解PHP/云平台等。
