@@ -38,6 +38,7 @@ theme:
   twitter: "imagispace"
   wordpress:
   youtube:
+  weibo: "minispace"
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
