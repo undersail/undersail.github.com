@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/sample_feature_img.png"
+feature-img: "img/feature_img_skeleton.png"
 ---
 
 ## 四有新人
