@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To be a c++ programmer
+title: To be a C++ programmer
 ---
 
 最近抽时间做了一些事情，你懂的 ^_^，感觉颇有收获。除了对当下的行情有一个直观的了解外对C++程序员有了更明确的认识。
