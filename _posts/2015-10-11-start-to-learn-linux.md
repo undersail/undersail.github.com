@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Start to learn Linux"
-tags:Learn
+title: "Start to learn linux"
+tags: Learn
 ---
 
 搞了七八年C++才开始认真的学习Linux，听起来或许有些可笑，不过好歹算开始了。动机之前已经说过，找工作的过程中逐渐发现Linux->C++->算法才是普通青年该走的路线，好在我也喜欢这些东西。
