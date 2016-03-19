@@ -1,10 +1,10 @@
-# Type Theme edit by [EasyApple](http://www.easyapple.net)
+# Type Theme [EasyApple](http://www.easyapple.net) Edition
 
 Type Theme is a free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
 
 [Using Type](https://rohanchandra.github.io/project/type/)
 
-## EasyApple 修改版本
+## EasyApple 修改内容
 
 这一版本EasyApple为适应自身需求及中文环境使用习惯在原版基础上修改的，调整了部分默认格式、字号等，并增加了微博、多说评论等功能的支持。具体修改内容如下：
 
