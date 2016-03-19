@@ -5,7 +5,7 @@ url: "http://i.easyapple.net" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Jack.Z
+  title: undersail
   avatar: skeleton.png
   gravatar: # Email MD5 hash
   description: "Jack's blog, not just a coder." # used by search engines
@@ -15,7 +15,7 @@ theme:
     <p>Not just a coder.</p>
   header_text_feature_image:
   footer_text: >
-    by <a href="http://i.easyapple.net">Jack.Z</a>
+    by <a href="http://i.easyapple.net">undersail</a>
 
   # Icons
   rss: true
