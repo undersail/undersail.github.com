@@ -19,11 +19,11 @@ theme_settings:
 
   # Icons
   rss: true
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "jack@easyapple.net"
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "imagispace"
   flickr:
   github: "undersail"
   google_plus:
