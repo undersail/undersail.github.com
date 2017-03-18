@@ -20,12 +20,12 @@ theme_settings:
   # Icons
   rss: true
   email_address: "jack@easyapple.net"
-  github: "undersail"
   behance:
   bitbucket:
   dribbble:
   facebook: "imagispace"
   flickr:
+  github: "undersail"
   google_plus:
   instagram:
   linkedin:  # Full URL
